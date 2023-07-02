@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @edisoncgh
-A future graduate student who will enter Tsinghua University in 2023.
+A graduate student who majored in ECE.
 ## 📫 How to reach me
 - email: cgh@edisoncgh.com
 
