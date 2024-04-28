@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @edisoncgh
-A graduate student who majored in ECE.
+A master's student who majored in EE.
 ## 📫 How to reach me
 - personal email: cgh@edisoncgh.com
 - work email: cgh23@mails.tsinghua.edu.cn
